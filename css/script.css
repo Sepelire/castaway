@@ -1,1 +1,8 @@
 @import url(./reset.css);
+
+.body {
+  max-width: 1440px;
+  background: #191919;
+  color: white;
+}
+
